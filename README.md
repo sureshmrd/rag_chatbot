@@ -11,7 +11,8 @@
   <p>
     <b>Ask questions about news articles from URLs using Gemini embeddings and LangChain!</b>
   </p>
-  <img src="https://raw.githubusercontent.com/streamlit/streamlit/develop/examples/data/news.png" width="500" alt="News Graphic"/>
+  <img src="<img width="2921" height="811" alt="streamlit-logo-primary-colormark-darktext" src="https://github.com/user-attachments/assets/8ea0aea1-715d-4dc0-8049-0c62433952cb" />
+" width="500" alt="News Graphic"/>
 </div>
 
 ---
@@ -30,7 +31,8 @@
 ## 📸 Demo Screenshot
 
 <p align="center">
-  <img src="https://i.imgur.com/2eQ7M2j.png" width="700" alt="App Screenshot"/>
+  <img src="<img width="1861" height="859" alt="Demo App Screenshot" src="https://github.com/user-attachments/assets/8905df90-5b87-4b0b-b9af-d3443516b329" />
+" width="700" alt="App Screenshot"/>
 </p>
 
 ---
