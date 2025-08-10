@@ -30,9 +30,8 @@
 
 ## 📸 Demo Screenshot
 
-<p align="center">
-  <img src="<img width="1861" height="859" alt="Demo App Screenshot" src="https://github.com/user-attachments/assets/8905df90-5b87-4b0b-b9af-d3443516b329" />
-" width="700" alt="App Screenshot"/>
+<p align="center"><img width="1861" height="859" alt="Demo App Screenshot" src="https://github.com/user-attachments/assets/08289db4-99d1-44b8-8494-f4fde838d37e" />
+  
 </p>
 
 ---
