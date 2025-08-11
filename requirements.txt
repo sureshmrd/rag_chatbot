@@ -5,3 +5,4 @@ langchain-google-genai
 unstructured
 python-dotenv
 faiss-cpu
+langchain-community
